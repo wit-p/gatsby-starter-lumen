@@ -1,9 +1,9 @@
 "use strict";
 
 module.exports = {
-  url: "https://witbiz.gatsbyjs.io",
+  url: "https://wit-portal.netlify.app",
   pathPrefix: "/",
-  title: "Blog by Wit",
+  title: "Portal | Wit Blog",
   subtitle: "想像し、学び、作り、動かし、創造する",
   copyright: "© All rights reserved.",
   disqusShortname: "",
